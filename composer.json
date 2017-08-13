@@ -1,0 +1,17 @@
+{
+  "name": "bar_software/projectbar",
+  "description": "This is the portal for Project Bar",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Bar Software",
+      "email": "bar.software10@gmail.com"
+    }
+  ],
+  "require": {
+    "catfan/medoo": "v1.0.2",
+    "phpoffice/phpexcel": "1.9.x-dev",
+    "mpdf/mpdf": "v6.1.1"
+  }
+}
